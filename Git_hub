@@ -1,0 +1,54 @@
+DevOps Certification Training 
+Git and GitHub Installation Guide 
+www.staragile.com 
+Git Installation on Windows :  
+Download Git for Windows 
+Step 1 : Browse to the official Git website: https://git-scm.com/downloads 
+Step 2 :  Click the download link for Windows and allow the download to 
+complete. 
+Step 3 : Browse to the download location (or use the download shortcut in 
+your browser). Double-click the file to extract and launch the installer. 
+www.staragile.com 
+Step 4 : Double click on the installer and Review the GNU General Public 
+License, and when you’re ready to install, click Next. 
+Step 5 : Choose a location for git installation, you can also choose to keep 
+default and click on next. 
+www.staragile.com 
+Step 6: A component selection screen will appear. Leave the defaults 
+unless you have a specific need to change them and click Next. 
+Step 7 : Keep clicking on Next with default settings as shown below. 
+www.staragile.com 
+www.staragile.com 
+Step 8 : The installer now asks which SSH client you want Git to use. Git 
+already comes with its own SSH client, so if you don't need a specific one, 
+leave the default option and click Next. 
+www.staragile.com 
+Step 9 : The next option relates to server certificates. Most users should 
+use the default. If you’re working in an Active Directory environment, you 
+may need to switch to Windows Store certificates. Click Next. 
+Step 10 : The next selection converts line endings. It is recommended that 
+you leave the default selection. This relates to the way data is formatted 
+and changing this option may cause problems. Click Next. 
+www.staragile.com 
+Step 11 : Choose the terminal emulator you want to use. The default 
+MinTTY is recommended, for its features. Keep clicking on Next with 
+default setting until your installation is complete. 
+Step 12 : Once the installation is complete, tick the boxes to view the 
+Release Notes or Launch Git Bash, then click Finish. 
+www.staragile.com 
+Setting up a GitHub Account :  
+Step 1 : Open https://github.com in a browser, and then select Sign up. 
+Step 2 : Enter your email address, username and create password. 
+Step 3 : Verify your account by solving a puzzle. Select the Start 
+Puzzle button to do so, and then follow the prompts. 
+Step 4 : After you verify your account, select the Create account button. 
+Step 5 : Next, GitHub sends a launch code to your email address. Type 
+that launch code in the Enter code dialog, and then press Enter. 
+Step 6 : GitHub asks you some questions to help tailor your experience. 
+Choose the answers that apply to you in the following dialogs: 
+• How many team members will be working with you? 
+• What specific features are you interested in using? 
+Step 7 : On the Where teams collaborate and ship screen, you can 
+choose whether you want to use the Free account or the Team account. To 
+choose the Free account, select the Skip personalization button. 
+www.staragile.com 
